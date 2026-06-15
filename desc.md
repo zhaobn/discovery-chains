@@ -1,5 +1,3 @@
-# Discovery Game + PsyNet
-
 ## Main task description
 
 A transmission chain study consisting of:
