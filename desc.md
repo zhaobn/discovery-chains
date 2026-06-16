@@ -1,12 +1,12 @@
 ## Main task description
 
 A transmission chain study consisting of:
-- 20 chains (configurable) x 3 conditions (easy, medium, hard) = 60 chains
+- 20 chains (configurable) x 3 conditions (easy, medium, hard; configurable) = 60 chains
 
 Each chain consists of:
 - 3 generations (configurable)
 
-And each condition recruits:
+And each generation per chain recruits:
 - 20 participants (configurable)
 
 The initial generation completes the task in `task-base.html` (using `task-base.js` and other helper functions)
