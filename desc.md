@@ -1,13 +1,10 @@
 ## Main task description
 
 A transmission chain study consisting of:
-- 20 chains (configurable)
+- 20 chains (configurable) x 3 conditions (easy, medium, hard) = 60 chains
 
 Each chain consists of:
 - 3 generations (configurable)
-
-Each generation has
-- 3 conditions (easy, medium, hard)
 
 And each condition recruits:
 - 20 participants (configurable)
